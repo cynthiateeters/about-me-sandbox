@@ -4,6 +4,8 @@
 
 Take the template and make a simple **About Me** page.
 
+Make into a sandbox
+
 ## Resources
 
 - This Project is a modified clone of [Udacity Project 0 for Project Nautilus](https://github.com/udacity/project-nautilus-project-0).
